@@ -17,8 +17,8 @@
 
 <div align="center">
 
-### `> INITIALIZING HANDSHAKE...`
-### `> PEER DISCOVERED. WELCOME.`
+### `Texas Tech University`
+### `Neural Networke - Decentralization, Education`
 
 </div>
 
@@ -43,7 +43,7 @@
 
 ```
 ┌──────────────────────────────┐
-│  CROSS-PLATFORM HANDSHAKE │
+│  CROSS-PLATFORM HANDSHAKES │
 │  ACTIVE AI SELF-TRAINING  │
 │  CODING AGENTS            │
 └──────────────────────────────┘
@@ -222,5 +222,6 @@ public class OpenNetProtocol
 ---
 
 </div>
+
 
 
