@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="assets/banner.png" alt="Neural Network Banner" width="100%"/>
+<img src="assets/banner.jpg.jpg" alt="Neural Network Banner" width="100%"/>
 
 <br/><br/>
 
@@ -76,8 +76,6 @@ My investigative pursuits span multiple intersecting disciplines within computat
 <div align="center">
 
 ## NIGHTFRAME
-
-<img src="assets/nightframe_logo.png" alt="Nightframe" width="120"/>
 
 ### *An Autonomous Mesh Intelligence System*
 
@@ -340,3 +338,4 @@ spectrum sensing cognitive radio dynamic spectrum access frequency hopping
 spread spectrum FHSS DSSS OFDM modulation demodulation encoding decoding
 encryption authentication authorization access control identity management
 -->
+
