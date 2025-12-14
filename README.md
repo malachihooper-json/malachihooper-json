@@ -18,7 +18,7 @@
 <div align="center">
 
 ### `> Experimental Development`
-### `> PTexas Tech University`
+### `> Texas Tech University`
 
 </div>
 
@@ -313,6 +313,7 @@ spectrum sensing cognitive radio dynamic spectrum access frequency hopping
 spread spectrum FHSS DSSS OFDM modulation demodulation encoding decoding
 encryption authentication authorization access control identity management
 -->
+
 
 
 
