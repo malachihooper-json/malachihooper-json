@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="assets/banner.png" alt="Neural Network Banner" width="100%"/>
+<img src="assets/banner.jpg.jpg" alt="Neural Network Banner" width="100%"/>
 
 <br/><br/>
 
@@ -222,4 +222,5 @@ public class OpenNetProtocol
 ---
 
 </div>
+
 
