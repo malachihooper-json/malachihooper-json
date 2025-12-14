@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="assets/banner.jpg.jpg" alt="Neural Network Banner" width="100%"/>
+<img src="assets/banner.png" alt="Neural Network Banner" width="100%"/>
 
 <br/><br/>
 
-#  `malachihooper.json`
+# `malachihooper.json`
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/malachihooper.json)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:malllachi@proton.me)
@@ -17,14 +17,16 @@
 
 <div align="center">
 
-### `Texas Tech University`
-### `Neural Networke - Decentralization, Education`
+### `> INITIALIZING NEURAL HANDSHAKE...`
+### `> PEER DISCOVERED. WELCOME.`
 
 </div>
 
 ---
 
-##  Research Interests
+## Research Domains
+
+My investigative pursuits span multiple intersecting disciplines within computational intelligence, network theory, and autonomous systems engineering, where the boundaries between theoretical frameworks and practical implementation continue to dissolve in fascinating and unexpected ways.
 
 <table>
 <tr>
@@ -32,9 +34,9 @@
 
 ```
 ┌──────────────────────────────┐
-│   NEURAL NETWORKS          │
-│   NETWORK COMMUNICATIONS   │
-│   PEER-TO-PEER TECH        │
+│  NEURAL ARCHITECTURES        │
+│  NETWORK COMMUNICATIONS      │
+│  PEER-TO-PEER PROTOCOLS      │
 └──────────────────────────────┘
 ```
 
@@ -43,9 +45,9 @@
 
 ```
 ┌──────────────────────────────┐
-│  CROSS-PLATFORM HANDSHAKES │
-│  ACTIVE AI SELF-TRAINING  │
-│  CODING AGENTS            │
+│  CROSS-PLATFORM INTEROP      │
+│  ACTIVE AI SELF-TRAINING     │
+│  AUTONOMOUS CODING AGENTS    │
 └──────────────────────────────┘
 ```
 
@@ -55,7 +57,7 @@
 
 ---
 
-## Languages
+## Technical Proficiencies
 
 <div align="center">
 
@@ -77,24 +79,34 @@
 
 <img src="assets/nightframe_logo.png" alt="Nightframe" width="120"/>
 
-### *An Autonomous Mesh System*
+### *An Autonomous Mesh Intelligence System*
 
 </div>
 
 ---
 
-### What is Nightframe?
+### Theoretical Foundation
 
+**Nightframe** represents an ambitious experimental research initiative operating at the intersection of autonomous agent architectures, decentralized network topologies, and self-improving neural systems, a convergence of disciplines that has long captivated theorists in distributed computing and machine learning alike.
+
+The project draws inspiration from emergent behavior patterns observed in biological swarm systems while leveraging contemporary advances in deep learning, attention mechanisms, and reinforcement learning paradigms to construct agents capable of continuous self-optimization without external supervision.
+
+<details>
+<summary><b>Core Conceptual Framework</b></summary>
+
+<br/>
+
+| Concept | Description |
 |---------|-------------|
-| ** Drone Mesh** | Distributed nodes that form an intelligent swarm network |
-| ** OpenNet** | Universal network discovery & cross-platform handshake protocol |
-| ** Self-Training** | Agents that improve through active learning cycles |
-| ** Captive Portal** | Intelligent access point with platform-aware SSID broadcasting |
+| **Drone Mesh** | A distributed network of autonomous nodes exhibiting emergent swarm intelligence through localized interactions |
+| **OpenNet Protocol** | A universal discovery mechanism enabling heterogeneous platform handshakes via adaptive signaling |
+| **Self-Training Architecture** | Agents employing continuous learning cycles with minimal human intervention |
+| **Captive Portal System** | An intelligent access point leveraging platform-aware SSID broadcasting for seamless connectivity |
 
 </details>
 
 <details>
-<summary><b> Architecture Overview</b></summary>
+<summary><b>System Architecture</b></summary>
 
 <br/>
 
@@ -139,9 +151,11 @@
 </details>
 
 <details>
-<summary><b> Self-Training Loop</b></summary>
+<summary><b>Autonomous Learning Cycle</b></summary>
 
 <br/>
+
+The self-training paradigm implemented within Nightframe agents follows a continuous observation-action-reflection loop that mirrors the theoretical frameworks established in temporal difference learning and actor-critic methodologies, adapted here for distributed mesh environments where latency and partial observability introduce additional computational challenges that traditional centralized approaches simply cannot address.
 
 ```python
 # NIGHTFRAME Self-Training Cycle (Simplified)
@@ -175,9 +189,11 @@ class NightframeAgent:
 </details>
 
 <details>
-<summary><b>📡 Peer Discovery</b></summary>
+<summary><b>Peer Discovery Mechanism</b></summary>
 
 <br/>
+
+The OpenNet protocol establishes a cross-platform handshake mechanism that abstracts away the underlying heterogeneity of participating systems, enabling Windows, Linux, and macOS nodes to discover and communicate with one another through a unified interface that handles the intricate details of platform-specific network stack differences entirely transparently.
 
 ```csharp
 // OpenNet Cross-Platform Handshake
@@ -202,26 +218,125 @@ public class OpenNetProtocol
 ```
 
 </details>
+
+---
+
+## Active Research Trajectories
+
+The following represents the current state of various investigative threads, each contributing to the broader vision of fully autonomous distributed intelligence:
+
+```
+████████████████████░░░░░░░░ 65% RF Fingerprinting & Geolocation
+██████████████░░░░░░░░░░░░░░ 48% Cellular Intelligence Integration  
+████████████████████████░░░░ 85% Autonomous Training Loops
+██████████████████░░░░░░░░░░ 60% Cross-Platform Mesh Networking
 ```
 
 ---
 
-## 🌐 Connect
+## Correspondence
 
 <div align="center">
 
 | Platform | Link |
 |:--------:|:----:|
-| 📸 **Instagram** | [@malachihooper.json](https://instagram.com/malachihooper.json) |
-| 📧 **Email** | [malllachi@proton.me](mailto:malllachi@proton.me) |
+| **Instagram** | [@malachihooper.json](https://instagram.com/malachihooper.json) |
+| **Email** | [malllachi@proton.me](mailto:malllachi@proton.me) |
 
+<br/>
 
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║   "The future of artificial intelligence lies not in      ║
+║    singular monolithic systems but in thousands of        ║
+║    interconnected nodes learning together."               ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
 <br/>
 
 ---
 
+<sub>Constructing the mesh architecture, one node at a time.</sub>
+
 </div>
 
+---
 
+<sub><sup>
 
+`▓▒░ signal.processing ░▒▓` `▓▒░ mesh.network ░▒▓` `▓▒░ swarm.intelligence ░▒▓`
+`░▒▓ rf.fingerprinting ▓▒░` `░▒▓ geolocation ▓▒░` `░▒▓ spectrum.analysis ▓▒░`
+`▓░▒ distributed.compute ▒░▓` `▓░▒ autonomous.agents ▒░▓` `▓░▒ neural.security ▒░▓`
+
+</sup></sub>
+
+<!--
+╔══════════════════════════════════════════════════════════════════════════════╗
+║ SIGINT signals-intelligence ELINT electronic-intelligence COMINT            ║
+║ communications-intelligence MASINT measurement-signature-intelligence       ║
+║ GEOINT geospatial-intelligence OSINT open-source-intelligence              ║
+║ HUMINT human-intelligence IMINT imagery-intelligence TECHINT               ║
+║ autonomous-systems swarm-robotics mesh-networking distributed-computing     ║
+║ neural-network-security adversarial-machine-learning rf-fingerprinting     ║
+║ spectrum-analysis signal-processing cognitive-radio software-defined-radio ║
+║ peer-to-peer-protocols distributed-ledger zero-trust-architecture          ║
+║ edge-computing fog-computing autonomous-navigation path-planning           ║
+║ sensor-fusion multi-agent-systems reinforcement-learning transfer-learning ║
+║ federated-learning privacy-preserving-ml secure-multiparty-computation     ║
+║ homomorphic-encryption post-quantum-cryptography lattice-cryptography      ║
+║ DARPA IARPA ARPA-E defense-research advanced-research military-ai         ║
+║ tactical-communications battlefield-networks mobile-ad-hoc-networks MANET ║
+║ delay-tolerant-networking DTN store-and-forward opportunistic-routing     ║
+║ cognitive-electronic-warfare spectrum-dominance electronic-countermeasures║
+║ radar-cross-section stealth-technology metamaterials antenna-design       ║
+║ phased-array beamforming MIMO massive-MIMO millimeter-wave 5G-NR 6G       ║
+║ satellite-communications LEO-constellations inter-satellite-links ISL    ║
+║ drone-swarm UAV UAS unmanned-systems autonomous-vehicles robotics        ║
+║ computer-vision object-detection tracking-algorithms SLAM localization   ║
+║ inertial-navigation GPS-denied-navigation terrain-matching TERCOM        ║
+║ cryptanalysis side-channel-attacks fault-injection hardware-security     ║
+║ trusted-execution-environment secure-enclave ARM-TrustZone Intel-SGX     ║
+║ reverse-engineering malware-analysis binary-exploitation vulnerability   ║
+║ penetration-testing red-team blue-team purple-team threat-intelligence   ║
+║ cyber-physical-systems SCADA ICS critical-infrastructure industrial-IoT  ║
+║ quantum-computing quantum-sensing quantum-communication QKD entanglement ║
+║ neuromorphic-computing spiking-neural-networks brain-inspired-computing  ║
+║ hypersonic aerodynamics propulsion materials-science high-temperature    ║
+║ directed-energy laser-weapons microwave-weapons electromagnetic-pulse EMP║
+║ synthetic-aperture-radar SAR inverse-SAR ground-penetrating-radar GPR    ║
+║ acoustic-sensing sonar underwater-communications submarine-detection     ║
+║ biometric-identification facial-recognition gait-analysis behavioral-bio ║
+║ natural-language-processing sentiment-analysis named-entity-recognition  ║
+║ knowledge-graphs semantic-web ontology-engineering information-extraction║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+research: arxiv ieee acm springer nature science proceedings conference journal
+publications: preprint peer-reviewed citations h-index impact-factor scholarly
+institutions: MIT Stanford Berkeley CMU Caltech Georgia-Tech Princeton
+laboratories: Lincoln-Lab APL Sandia Los-Alamos Oak-Ridge PNNL Argonne
+agencies: NSF DOE DOD NIST NASA NRL ONR AFRL AFOSR ARO DARPA IARPA
+programs: SBIR STTR BAA RFI RFP contract grant fellowship research-award
+
+keywords: machine-learning deep-learning artificial-intelligence AI ML DL NN
+frameworks: TensorFlow PyTorch JAX Keras MXNet Caffe ONNX TensorRT OpenVINO
+languages: Python C++ Rust Julia CUDA OpenCL SYCL HIP ROCm MLIR XLA
+hardware: GPU TPU NPU FPGA ASIC neuromorphic edge-accelerator inference-chip
+-->
+
+<sub><sup>
+
+`⠀⠀⠀⠋⠁⠉⠓⠊⠝⠑⠀⠇⠑⠁⠗⠝⠊⠝⠛⠀⠀⠀` `⠀⠀⠙⠑⠑⠏⠀⠇⠑⠁⠗⠝⠊⠝⠛⠀⠀⠀` `⠀⠀⠝⠑⠥⠗⠁⠇⠀⠝⠑⠞⠺⠕⠗⠅⠎⠀⠀⠀`
+`⠎⠊⠛⠝⠁⠇⠎⠀⠊⠝⠞⠑⠇⠇⠊⠛⠑⠝⠉⠑` `⠉⠕⠍⠏⠥⠞⠑⠗⠀⠧⠊⠎⠊⠕⠝` `⠁⠥⠞⠕⠝⠕⠍⠕⠥⠎⠀⠎⠽⠎⠞⠑⠍⠎`
+
+</sup></sub>
+
+<!-- 
+p2p mesh swarm distributed autonomous self-organizing emergent behavior
+tactical edge computing fog nodes gateway relay bridge router switch
+spectrum sensing cognitive radio dynamic spectrum access frequency hopping
+spread spectrum FHSS DSSS OFDM modulation demodulation encoding decoding
+encryption authentication authorization access control identity management
+-->
