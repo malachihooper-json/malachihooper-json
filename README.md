@@ -5,7 +5,7 @@
 
 <br/><br/>
 
-# 🧠 `malachihooper.json`
+#  `malachihooper.json`
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/malachihooper.json)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:malllachi@proton.me)
@@ -17,14 +17,14 @@
 
 <div align="center">
 
-### `> INITIALIZING NEURAL HANDSHAKE...`
+### `> INITIALIZING HANDSHAKE...`
 ### `> PEER DISCOVERED. WELCOME.`
 
 </div>
 
 ---
 
-## 🔬 Research Interests
+##  Research Interests
 
 <table>
 <tr>
@@ -32,9 +32,9 @@
 
 ```
 ┌──────────────────────────────┐
-│  🧬 NEURAL NETWORKS          │
-│  📡 NETWORK COMMUNICATIONS   │
-│  🔗 PEER-TO-PEER TECH        │
+│   NEURAL NETWORKS          │
+│   NETWORK COMMUNICATIONS   │
+│   PEER-TO-PEER TECH        │
 └──────────────────────────────┘
 ```
 
@@ -43,9 +43,9 @@
 
 ```
 ┌──────────────────────────────┐
-│  🤝 CROSS-PLATFORM HANDSHAKE │
-│  🔄 ACTIVE AI SELF-TRAINING  │
-│  🤖 CODING AGENTS            │
+│  CROSS-PLATFORM HANDSHAKE │
+│  ACTIVE AI SELF-TRAINING  │
+│  CODING AGENTS            │
 └──────────────────────────────┘
 ```
 
@@ -55,7 +55,7 @@
 
 ---
 
-## ⚡ Tech Stack
+## Languages
 
 <div align="center">
 
@@ -73,36 +73,28 @@
 
 <div align="center">
 
-## 🌙 NIGHTFRAME
+## NIGHTFRAME
 
 <img src="assets/nightframe_logo.png" alt="Nightframe" width="120"/>
 
-### *An Autonomous Mesh Intelligence System*
+### *An Autonomous Mesh System*
 
 </div>
 
 ---
 
-### 📖 What is Nightframe?
+### What is Nightframe?
 
-**Nightframe** is an experimental research project exploring the intersection of **autonomous AI agents**, **peer-to-peer networking**, and **self-training neural architectures**. 
-
-<details>
-<summary><b>🔍 Core Concepts</b></summary>
-
-<br/>
-
-| Concept | Description |
 |---------|-------------|
-| **🛸 Drone Mesh** | Distributed nodes that form an intelligent swarm network |
-| **📡 OpenNet** | Universal network discovery & cross-platform handshake protocol |
-| **🧠 Self-Training** | Agents that improve through active learning cycles |
-| **🔐 Captive Portal** | Intelligent access point with platform-aware SSID broadcasting |
+| ** Drone Mesh** | Distributed nodes that form an intelligent swarm network |
+| ** OpenNet** | Universal network discovery & cross-platform handshake protocol |
+| ** Self-Training** | Agents that improve through active learning cycles |
+| ** Captive Portal** | Intelligent access point with platform-aware SSID broadcasting |
 
 </details>
 
 <details>
-<summary><b>🏗️ Architecture Overview</b></summary>
+<summary><b> Architecture Overview</b></summary>
 
 <br/>
 
@@ -147,7 +139,7 @@
 </details>
 
 <details>
-<summary><b>🔄 Self-Training Loop</b></summary>
+<summary><b> Self-Training Loop</b></summary>
 
 <br/>
 
@@ -210,16 +202,6 @@ public class OpenNetProtocol
 ```
 
 </details>
-
----
-
-## 📊 Current Focus
-
-```
-████████████████████░░░░░░░░ 65% RF Fingerprinting & Geolocation
-██████████████░░░░░░░░░░░░░░ 48% Cellular Intelligence Integration  
-████████████████████████░░░░ 85% Autonomous Training Loops
-██████████████████░░░░░░░░░░ 60% Cross-Platform Mesh Networking
 ```
 
 ---
@@ -233,21 +215,11 @@ public class OpenNetProtocol
 | 📸 **Instagram** | [@malachihooper.json](https://instagram.com/malachihooper.json) |
 | 📧 **Email** | [malllachi@proton.me](mailto:malllachi@proton.me) |
 
-<br/>
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║   "The future of AI isn't a single mind—                  ║
-║    it's a thousand nodes learning together."              ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
 
 <br/>
 
 ---
 
-<sub>🌙 Building the mesh, one node at a time.</sub>
-
 </div>
+
