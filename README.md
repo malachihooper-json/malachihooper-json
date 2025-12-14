@@ -17,16 +17,16 @@
 
 <div align="center">
 
-### `> INITIALIZING NEURAL HANDSHAKE...`
-### `> PEER DISCOVERED. WELCOME.`
+### `> Experimental Development`
+### `> PTexas Tech University`
 
 </div>
 
 ---
 
-## Research Domains
+## Focus:
 
-My investigative pursuits span multiple intersecting disciplines within computational intelligence, network theory, and autonomous systems engineering, where the boundaries between theoretical frameworks and practical implementation continue to dissolve in fascinating and unexpected ways.
+Currently, I am focusing on adaptive network interfaces using neural networks.
 
 <table>
 <tr>
@@ -34,7 +34,7 @@ My investigative pursuits span multiple intersecting disciplines within computat
 
 ```
 ┌──────────────────────────────┐
-│  NEURAL ARCHITECTURES        │
+│  NEURAL NETWORKS             │
 │  NETWORK COMMUNICATIONS      │
 │  PEER-TO-PEER PROTOCOLS      │
 └──────────────────────────────┘
@@ -46,8 +46,8 @@ My investigative pursuits span multiple intersecting disciplines within computat
 ```
 ┌──────────────────────────────┐
 │  CROSS-PLATFORM INTEROP      │
-│  ACTIVE AI SELF-TRAINING     │
-│  AUTONOMOUS CODING AGENTS    │
+│  ACTIVE AI SELF-CRITIQUE     │
+│  EMBEDDED CODING AGENTS      │
 └──────────────────────────────┘
 ```
 
@@ -57,7 +57,7 @@ My investigative pursuits span multiple intersecting disciplines within computat
 
 ---
 
-## Technical Proficiencies
+## Proficiencies
 
 <div align="center">
 
@@ -77,34 +77,25 @@ My investigative pursuits span multiple intersecting disciplines within computat
 
 ## NIGHTFRAME
 
-### *An Autonomous Mesh Intelligence System*
+### *Neural Network Peer-to-Peer Mesh with Breakthrough Economic Computation and internet sharing*
 
 </div>
 
 ---
 
-### Theoretical Foundation
-
-**Nightframe** represents an ambitious experimental research initiative operating at the intersection of autonomous agent architectures, decentralized network topologies, and self-improving neural systems, a convergence of disciplines that has long captivated theorists in distributed computing and machine learning alike.
-
-The project draws inspiration from emergent behavior patterns observed in biological swarm systems while leveraging contemporary advances in deep learning, attention mechanisms, and reinforcement learning paradigms to construct agents capable of continuous self-optimization without external supervision.
-
-<details>
-<summary><b>Core Conceptual Framework</b></summary>
-
 <br/>
 
 | Concept | Description |
 |---------|-------------|
-| **Drone Mesh** | A distributed network of autonomous nodes exhibiting emergent swarm intelligence through localized interactions |
-| **OpenNet Protocol** | A universal discovery mechanism enabling heterogeneous platform handshakes via adaptive signaling |
+| **Drone Mesh** | A distributed network of autonomous nodes exhibiting the emergent molecular behavior of the human body |
+| **OpenNet!!** | A universal discovery mechanism enabling heterogeneous platform handshakes via adaptive signaling |
 | **Self-Training Architecture** | Agents employing continuous learning cycles with minimal human intervention |
 | **Captive Portal System** | An intelligent access point leveraging platform-aware SSID broadcasting for seamless connectivity |
 
 </details>
 
 <details>
-<summary><b>System Architecture</b></summary>
+<summary><b>System (BRAIN)</b></summary>
 
 <br/>
 
@@ -218,21 +209,11 @@ public class OpenNetProtocol
 </details>
 
 ---
-
-## Active Research Trajectories
-
-The following represents the current state of various investigative threads, each contributing to the broader vision of fully autonomous distributed intelligence:
-
 ```
-████████████████████░░░░░░░░ 65% RF Fingerprinting & Geolocation
-██████████████░░░░░░░░░░░░░░ 48% Cellular Intelligence Integration  
-████████████████████████░░░░ 85% Autonomous Training Loops
-██████████████████░░░░░░░░░░ 60% Cross-Platform Mesh Networking
 ```
-
 ---
 
-## Correspondence
+## Contact
 
 <div align="center">
 
@@ -246,18 +227,12 @@ The following represents the current state of various investigative threads, eac
 ```
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
-║   "The future of artificial intelligence lies not in      ║
-║    singular monolithic systems but in thousands of        ║
-║    interconnected nodes learning together."               ║
+║   malachihooper.json                                      ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
 <br/>
-
----
-
-<sub>Constructing the mesh architecture, one node at a time.</sub>
 
 </div>
 
@@ -338,6 +313,7 @@ spectrum sensing cognitive radio dynamic spectrum access frequency hopping
 spread spectrum FHSS DSSS OFDM modulation demodulation encoding decoding
 encryption authentication authorization access control identity management
 -->
+
 
 
 
