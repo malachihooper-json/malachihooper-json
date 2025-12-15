@@ -3,7 +3,7 @@
 <!-- HEADER BANNER -->
 <img src="assets/banner.jpg.jpg" alt="Neural Network Banner" width="100%"/>
 
-# `                                                                                                                                            
+                                                                                                                                            
  mmm  mmm     mm     mm           mm        mmmm   mm    mm   mmmmmm             mm    mm    mmmm      mmmm    mmmmmm    mmmmmmmm  mmmmmm   
  ###  ###    ####    ##          ####     ##""""#  ##    ##   ""##""             ##    ##   ##""##    ##""##   ##""""#m  ##""""""  ##""""## 
  ########    ####    ##          ####    ##"       ##    ##     ##               ##    ##  ##    ##  ##    ##  ##    ##  ##        ##    ## 
@@ -329,6 +329,7 @@ spectrum sensing cognitive radio dynamic spectrum access frequency hopping
 spread spectrum FHSS DSSS OFDM modulation demodulation encoding decoding
 encryption authentication authorization access control identity management
 -->
+
 
 
 
