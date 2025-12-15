@@ -4,7 +4,7 @@
 <img src="assets/banner.jpg.jpg" alt="Neural Network Banner" width="100%"/>
 
 # `Malachi Hooper`
-### `Development Library`
+## `Development Library`
 
 <br/><br/>
 
@@ -314,6 +314,7 @@ spectrum sensing cognitive radio dynamic spectrum access frequency hopping
 spread spectrum FHSS DSSS OFDM modulation demodulation encoding decoding
 encryption authentication authorization access control identity management
 -->
+
 
 
 
