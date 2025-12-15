@@ -3,9 +3,16 @@
 <!-- HEADER BANNER -->
 <img src="assets/banner.jpg.jpg" alt="Neural Network Banner" width="100%"/>
 
-# `██▄  ▄██ ▄████▄ ██     ▄████▄ ▄█████ ██  ██ ██   ██  ██ ▄████▄ ▄████▄ █████▄ ██████ █████▄  
-   ██ ▀▀ ██ ██▄▄██ ██     ██▄▄██ ██     ██████ ██   ██████ ██  ██ ██  ██ ██▄▄█▀ ██▄▄   ██▄▄██▄ 
-  █  █    ██ ██  ██ ██████ ██  ██ ▀█████ ██  ██ ██   ██  ██ ▀████▀ ▀████▀ ██     ██▄▄▄▄ ██   ██`
+# `                                                                                                                                            
+ mmm  mmm     mm     mm           mm        mmmm   mm    mm   mmmmmm             mm    mm    mmmm      mmmm    mmmmmm    mmmmmmmm  mmmmmm   
+ ###  ###    ####    ##          ####     ##""""#  ##    ##   ""##""             ##    ##   ##""##    ##""##   ##""""#m  ##""""""  ##""""## 
+ ########    ####    ##          ####    ##"       ##    ##     ##               ##    ##  ##    ##  ##    ##  ##    ##  ##        ##    ## 
+ ## ## ##   ##  ##   ##         ##  ##   ##        ########     ##               ########  ##    ##  ##    ##  ######"   #######   #######  
+ ## "" ##   ######   ##         ######   ##m       ##    ##     ##               ##    ##  ##    ##  ##    ##  ##        ##        ##  "##m 
+ ##    ##  m##  ##m  ##mmmmmm  m##  ##m   ##mmmm#  ##    ##   mm##mm             ##    ##   ##mm##    ##mm##   ##        ##mmmmmm  ##    ## 
+ ""    ""  ""    ""  """"""""  ""    ""     """"   ""    ""   """"""             ""    ""    """"      """"    ""        """"""""  ""    """
+                                                                                                                                            
+                                                                                                                                            
 ## `Development Library`
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m.alachii)
