@@ -5,7 +5,8 @@
 
 <br/><br/>
 
-# `malachihooper.json`
+# `Malachi Hooper`
+### `Development Library`
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m.alachih)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:malllachi@proton.me)
@@ -313,6 +314,7 @@ spectrum sensing cognitive radio dynamic spectrum access frequency hopping
 spread spectrum FHSS DSSS OFDM modulation demodulation encoding decoding
 encryption authentication authorization access control identity management
 -->
+
 
 
 
