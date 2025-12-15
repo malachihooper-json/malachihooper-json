@@ -27,7 +27,7 @@
 
 ## Focus:
 
-Currently, I am focusing on adaptive network interfaces using neural networks.
+Currently, I am focusing on adaptive network interfaces using neural networks. I have also just released a plug-and-play P2P mesh network library for distributed computation on .NET/C# systems (8).
 
 <table>
 <tr>
@@ -314,6 +314,7 @@ spectrum sensing cognitive radio dynamic spectrum access frequency hopping
 spread spectrum FHSS DSSS OFDM modulation demodulation encoding decoding
 encryption authentication authorization access control identity management
 -->
+
 
 
 
