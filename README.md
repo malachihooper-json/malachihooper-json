@@ -3,10 +3,28 @@
 <!-- HEADER BANNER -->
 <img src="assets/banner.jpg.jpg" alt="Neural Network Banner" width="100%"/>
 
-# `Malachi Hooper`
+# `                                                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                                          
+MMMMMMMM               MMMMMMMM               AAA               LLLLLLLLLLL                            AAA                  CCCCCCCCCCCCCHHHHHHHHH     HHHHHHHHHIIIIIIIIII     HHHHHHHHH     HHHHHHHHH     OOOOOOOOO          OOOOOOOOO     PPPPPPPPPPPPPPPPP   EEEEEEEEEEEEEEEEEEEEEERRRRRRRRRRRRRRRRR   
+M:::::::M             M:::::::M              A:::A              L:::::::::L                           A:::A              CCC::::::::::::CH:::::::H     H:::::::HI::::::::I     H:::::::H     H:::::::H   OO:::::::::OO      OO:::::::::OO   P::::::::::::::::P  E::::::::::::::::::::ER::::::::::::::::R  
+M::::::::M           M::::::::M             A:::::A             L:::::::::L                          A:::::A           CC:::::::::::::::CH:::::::H     H:::::::HI::::::::I     H:::::::H     H:::::::H OO:::::::::::::OO  OO:::::::::::::OO P::::::PPPPPP:::::P E::::::::::::::::::::ER::::::RRRRRR:::::R 
+M:::::::::M         M:::::::::M            A:::::::A            LL:::::::LL                         A:::::::A         C:::::CCCCCCCC::::CHH::::::H     H::::::HHII::::::II     HH::::::H     H::::::HHO:::::::OOO:::::::OO:::::::OOO:::::::OPP:::::P     P:::::PEE::::::EEEEEEEEE::::ERR:::::R     R:::::R
+M::::::::::M       M::::::::::M           A:::::::::A             L:::::L                          A:::::::::A       C:::::C       CCCCCC  H:::::H     H:::::H    I::::I         H:::::H     H:::::H  O::::::O   O::::::OO::::::O   O::::::O  P::::P     P:::::P  E:::::E       EEEEEE  R::::R     R:::::R
+M:::::::::::M     M:::::::::::M          A:::::A:::::A            L:::::L                         A:::::A:::::A     C:::::C                H:::::H     H:::::H    I::::I         H:::::H     H:::::H  O:::::O     O:::::OO:::::O     O:::::O  P::::P     P:::::P  E:::::E               R::::R     R:::::R
+M:::::::M::::M   M::::M:::::::M         A:::::A A:::::A           L:::::L                        A:::::A A:::::A    C:::::C                H::::::HHHHH::::::H    I::::I         H::::::HHHHH::::::H  O:::::O     O:::::OO:::::O     O:::::O  P::::PPPPPP:::::P   E::::::EEEEEEEEEE     R::::RRRRRR:::::R 
+M::::::M M::::M M::::M M::::::M        A:::::A   A:::::A          L:::::L                       A:::::A   A:::::A   C:::::C                H:::::::::::::::::H    I::::I         H:::::::::::::::::H  O:::::O     O:::::OO:::::O     O:::::O  P:::::::::::::PP    E:::::::::::::::E     R:::::::::::::RR  
+M::::::M  M::::M::::M  M::::::M       A:::::A     A:::::A         L:::::L                      A:::::A     A:::::A  C:::::C                H:::::::::::::::::H    I::::I         H:::::::::::::::::H  O:::::O     O:::::OO:::::O     O:::::O  P::::PPPPPPPPP      E:::::::::::::::E     R::::RRRRRR:::::R 
+M::::::M   M:::::::M   M::::::M      A:::::AAAAAAAAA:::::A        L:::::L                     A:::::AAAAAAAAA:::::A C:::::C                H::::::HHHHH::::::H    I::::I         H::::::HHHHH::::::H  O:::::O     O:::::OO:::::O     O:::::O  P::::P              E::::::EEEEEEEEEE     R::::R     R:::::R
+M::::::M    M:::::M    M::::::M     A:::::::::::::::::::::A       L:::::L                    A:::::::::::::::::::::AC:::::C                H:::::H     H:::::H    I::::I         H:::::H     H:::::H  O:::::O     O:::::OO:::::O     O:::::O  P::::P              E:::::E               R::::R     R:::::R
+M::::::M     MMMMM     M::::::M    A:::::AAAAAAAAAAAAA:::::A      L:::::L         LLLLLL    A:::::AAAAAAAAAAAAA:::::AC:::::C       CCCCCC  H:::::H     H:::::H    I::::I         H:::::H     H:::::H  O::::::O   O::::::OO::::::O   O::::::O  P::::P              E:::::E       EEEEEE  R::::R     R:::::R
+M::::::M               M::::::M   A:::::A             A:::::A   LL:::::::LLLLLLLLL:::::L   A:::::A             A:::::AC:::::CCCCCCCC::::CHH::::::H     H::::::HHII::::::II     HH::::::H     H::::::HHO:::::::OOO:::::::OO:::::::OOO:::::::OPP::::::PP          EE::::::EEEEEEEE:::::ERR:::::R     R:::::R
+M::::::M               M::::::M  A:::::A               A:::::A  L::::::::::::::::::::::L  A:::::A               A:::::ACC:::::::::::::::CH:::::::H     H:::::::HI::::::::I     H:::::::H     H:::::::H OO:::::::::::::OO  OO:::::::::::::OO P::::::::P          E::::::::::::::::::::ER::::::R     R:::::R
+M::::::M               M::::::M A:::::A                 A:::::A L::::::::::::::::::::::L A:::::A                 A:::::A CCC::::::::::::CH:::::::H     H:::::::HI::::::::I     H:::::::H     H:::::::H   OO:::::::::OO      OO:::::::::OO   P::::::::P          E::::::::::::::::::::ER::::::R     R:::::R
+MMMMMMMM               MMMMMMMMAAAAAAA                   AAAAAAALLLLLLLLLLLLLLLLLLLLLLLLAAAAAAA                   AAAAAAA   CCCCCCCCCCCCCHHHHHHHHH     HHHHHHHHHIIIIIIIIII     HHHHHHHHH     HHHHHHHHH     OOOOOOOOO          OOOOOOOOO     PPPPPPPPPP          EEEEEEEEEEEEEEEEEEEEEERRRRRRRR     RRRRR
+`
 ## `Development Library`
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m.alachih)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m.alachii)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:malllachi@proton.me)
 [![GitHub followers](https://img.shields.io/github/followers/malachihooper-json?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malachihooper-json)
 
@@ -218,7 +236,7 @@ public class OpenNetProtocol
 
 | Platform | Link |
 |:--------:|:----:|
-| **Instagram** | [@m.alachih](https://instagram.com/m.alachih) |
+| **Instagram** | [@m.alachii](https://instagram.com/m.alachii) |
 | **Email** | [malllachi@proton.me](mailto:malllachi@proton.me) |
 
 <br/>
@@ -226,9 +244,11 @@ public class OpenNetProtocol
 ```
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
-║   malachihooper.json                                      ║
+║   malachihooper.json GITHUB                               ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
+____________________________________________________________
+__________________________________________________________
 ```
 
 <br/>
@@ -242,7 +262,13 @@ public class OpenNetProtocol
 `▓▒░ signal.processing ░▒▓` `▓▒░ mesh.network ░▒▓` `▓▒░ swarm.intelligence ░▒▓`
 `░▒▓ rf.fingerprinting ▓▒░` `░▒▓ geolocation ▓▒░` `░▒▓ spectrum.analysis ▓▒░`
 `▓░▒ distributed.compute ▒░▓` `▓░▒ autonomous.agents ▒░▓` `▓░▒ neural.security ▒░▓`
-
+░▒▓██████████████▓▒░ ░▒▓██████▓▒░░▒▓█▓▒░       ░▒▓██████▓▒░ ░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░ ░▒▓██████▓▒░░▒▓███████▓▒░░▒▓████████▓▒░▒▓███████▓▒░  
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░ 
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░ 
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓█▓▒░      ░▒▓████████▓▒░▒▓█▓▒░      ░▒▓████████▓▒░▒▓█▓▒░      ░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░░▒▓██████▓▒░ ░▒▓███████▓▒░  
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░ 
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░ 
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░ ░▒▓██████▓▒░░▒▓█▓▒░      ░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░                                                                                                                                                                 
 </sup></sub>
 
 <!--
@@ -312,6 +338,7 @@ spectrum sensing cognitive radio dynamic spectrum access frequency hopping
 spread spectrum FHSS DSSS OFDM modulation demodulation encoding decoding
 encryption authentication authorization access control identity management
 -->
+
 
 
 
