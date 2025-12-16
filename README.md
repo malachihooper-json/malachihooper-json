@@ -76,136 +76,173 @@ Currently, I am focusing on adaptive network interfaces using neural networks. I
 
 <div align="center">
 
-## NIGHTFRAME
+# 🌌 NIGHTFRAME
 
-### *Neural Network Peer-to-Peer Mesh with Breakthrough Economic Computation and internet sharing*
+**Decentralized AI Mesh Network**
 
-</div>
+A distributed computing platform that enables collaborative neural network inference across a mesh of autonomous nodes. Features cellular intelligence, GPU-accelerated ONNX runtime, and viral network propagation.
 
 ---
 
-<br/>
+## ✨ Features
 
-| Concept | Description |
+| Feature | Description |
 |---------|-------------|
-| **Drone Mesh** | A distributed network of autonomous nodes exhibiting the emergent molecular behavior of the human body |
-| **OpenNet!!** | A universal discovery mechanism enabling heterogeneous platform handshakes via adaptive signaling |
-| **Self-Training Architecture** | Agents employing continuous learning cycles with minimal human intervention |
-| **Captive Portal System** | An intelligent access point leveraging platform-aware SSID broadcasting for seamless connectivity |
+| **Distributed Inference** | Pipeline-parallel model sharding across nodes |
+| **Cellular Intelligence** | RF fingerprinting and handover prediction |
+| **Neural Compute** | ONNX Runtime with GPU acceleration (CUDA, DirectML, CoreML) |
+| **Mesh Discovery** | UDP broadcast + mDNS peer discovery |
+| **Captive Portal** | Platform-aware network propagation |
+| **Credit Economy** | Incentivized compute contribution |
 
-</details>
+---
 
-<details>
-<summary><b>System (BRAIN)</b></summary>
-
-<br/>
+## 🏗️ Architecture
 
 ```
-                    ┌─────────────────────────────────────┐
-                    │         NIGHTFRAME CORE             │
-                    │   ┌─────────────────────────────┐   │
-                    │   │    Neural Training Engine   │   │
-                    │   │   ┌─────────┐ ┌─────────┐   │   │
-                    │   │   │ Hybrid  │ │  LSTM   │   │   │
-                    │   │   │   CNN   │ │ Layer   │   │   │
-                    │   │   └────┬────┘ └────┬────┘   │   │
-                    │   │        └─────┬─────┘        │   │
-                    │   │              ▼              │   │
-                    │   │      ┌─────────────┐        │   │
-                    │   │      │ Attention   │        │   │
-                    │   │      │   Layer     │        │   │
-                    │   │      └──────┬──────┘        │   │
-                    │   └─────────────┼───────────────┘   │
-                    │                 ▼                   │
-                    │    ┌────────────────────────┐       │
-                    │    │     DRONE MESH         │       │
-                    │    │  ┌───┐   ┌───┐   ┌───┐ │       │
-                    │    │  │ D │◄─►│ D │◄─►│ D │ │       │
-                    │    │  └─┬─┘   └─┬─┘   └─┬─┘ │       │
-                    │    │    └───────┼───────┘   │       │
-                    │    └────────────┼───────────┘       │
-                    │                 ▼                   │
-                    │         ┌─────────────┐             │
-                    │         │   OpenNet   │             │
-                    │         │  Protocol   │             │
-                    │         └─────────────┘             │
-                    └─────────────────────────────────────┘
-                                      │
-                    ┌─────────────────┼─────────────────┐
-                    ▼                 ▼                 ▼
-              ┌──────────┐    ┌──────────────┐   ┌───────────┐
-              │ Windows  │    │    Linux     │   │   macOS   │
-              └──────────┘    └──────────────┘   └───────────┘
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                         WEB CONSOLE (React/Next.js)                          │
+└───────────────────────────────────────┬─────────────────────────────────────┘
+                                        │ SignalR WebSocket
+                                        ▼
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                        ORCHESTRATOR (Command Node)                           │
+│                        ASP.NET Core + gRPC                                   │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  Drone Registry │ Ledger Service │ Shard Coordinator │ Cell Coordinator     │
+└───────────────────────────────────────┬─────────────────────────────────────┘
+                                        │ gRPC bidirectional streaming
+                        ┌───────────────┼───────────────┐
+                        ▼               ▼               ▼
+                  ┌─────────┐     ┌─────────┐     ┌─────────┐
+                  │ DESKTOP │     │  SCOUT  │     │ ANDROID │
+                  │  DRONE  │     │  DRONE  │     │  SCOUT  │
+                  │─────────│     │─────────│     │─────────│
+                  │ Compute │     │ Cellular│     │ Wi-Fi   │
+                  │ Storage │     │ RF Loc  │     │ Scanning│
+                  │ Gateway │     │ Predict │     │ GPS Map │
+                  └─────────┘     └─────────┘     └─────────┘
 ```
 
-</details>
+---
 
-<details>
-<summary><b>Autonomous Learning Cycle</b></summary>
+## 📦 Components
 
-<br/>
+| Project | Description |
+|---------|-------------|
+| **Shared** | Unified interfaces (INeuralCompute, ICellular, INetworkNode) |
+| **Orchestrator** | Command node with gRPC server and SignalR hub |
+| **Drone** | Desktop node with cellular and ONNX integration |
+| **DroneAndroid** | Android Scout app (MAUI) |
+| **Watchdog** | Process supervisor for hot-swap updates |
+| **gamma1-web** | Next.js web console |
 
-The self-training paradigm implemented within Nightframe agents follows a continuous observation-action-reflection loop that mirrors the theoretical frameworks established in temporal difference learning and actor-critic methodologies, adapted here for distributed mesh environments where latency and partial observability introduce additional computational challenges that traditional centralized approaches simply cannot address.
+---
 
-```python
-# NIGHTFRAME Self-Training Cycle (Simplified)
+## 🚀 Quick Start
 
-class NightframeAgent:
-    def __init__(self):
-        self.model = HybridCNNLSTM()
-        self.attention = AttentionLayer()
-        self.memory = ExperienceBuffer()
-    
-    def training_cycle(self):
-        while self.active:
-            # 1. Observe environment
-            observations = self.gather_data()
-            
-            # 2. Process through neural network
-            embeddings = self.model.forward(observations)
-            context = self.attention.focus(embeddings)
-            
-            # 3. Generate response
-            action = self.decide(context)
-            
-            # 4. Execute and learn
-            reward = self.execute(action)
-            self.memory.store(observations, action, reward)
-            
-            # 5. Self-improve
-            self.model.train(self.memory.sample())
+### Prerequisites
+- .NET 8.0 SDK
+- Node.js 18+ (for web console)
+- Windows 10/11, macOS, or Linux
+
+### Build
+
+```bash
+# Build all projects
+dotnet build NIGHTFRAME.sln
+
+# Run Orchestrator in Genesis mode (single PC testing)
+dotnet run --project Orchestrator -- --mode genesis
+
+# Run standalone Drone
+dotnet run --project Drone
 ```
 
-</details>
+### Web Console
 
-<details>
-<summary><b>Peer Discovery Mechanism</b></summary>
-
-<br/>
-
-The OpenNet protocol establishes a cross-platform handshake mechanism that abstracts away the underlying heterogeneity of participating systems, enabling Windows, Linux, and macOS nodes to discover and communicate with one another through a unified interface that handles the intricate details of platform-specific network stack differences entirely transparently.
-
-```csharp
-// OpenNet Cross-Platform Handshake
-
-public class OpenNetProtocol
-{
-    public async Task<PeerConnection> DiscoverPeers()
-    {
-        // Platform-aware SSID broadcasting
-        var ssid = PlatformEvaluator.GetOptimalSSID();
-        
-        // Broadcast presence
-        await CaptivePortal.StartAccessPoint(ssid);
-        
-        // Listen for handshake requests
-        var peer = await WaitForHandshake();
-        
-        // Establish encrypted mesh connection
-        return await EstablishMeshLink(peer);
-    }
-}
+```bash
+cd gamma1-web
+npm install
+npm run dev
 ```
+
+---
+
+## 📡 Cellular Intelligence
+
+- **RF Fingerprinting**: GPS-free location (50-500m accuracy)
+- **Handover Prediction**: Preemptive tower switching via LSTM
+- **AT Command Support**: Quectel, Telit, Sierra modems
+- **OpenCellID Integration**: Cell tower database sync
+
+---
+
+## 🧠 Neural Compute
+
+| Provider | Platform | Hardware |
+|----------|----------|----------|
+| **CUDA** | All | NVIDIA GPUs |
+| **DirectML** | Windows | AMD, Intel GPUs |
+| **CoreML** | macOS | Apple Silicon |
+| **CPU** | All | Fallback |
+
+---
+
+## 🔐 Security
+
+- **ECDSA Identity**: Cryptographic node authentication
+- **Shadow Mode**: Probationary period for new nodes
+- **Consensus Validation**: Multi-node result verification
+- **Signed Compute**: Verifiable result attribution
+
+---
+
+## 📊 Credit Economy
+
+| Action | Credits |
+|--------|---------|
+| Compute shard | +100 |
+| Storage (per GB) | +10 |
+| Uptime (per hour) | +5 |
+| Prompt submission | -50 |
+
+---
+
+## 📁 Project Structure
+
+```
+├── NIGHTFRAME.sln
+├── Shared/              # Shared interfaces
+├── Orchestrator/        # Command node
+├── Drone/               # Desktop drone
+├── DroneAndroid/        # Android scout
+├── Watchdog/            # Process supervisor
+├── gamma1-web/          # Web console
+└── docs/                # Documentation
+```
+
+---
+
+## 🔄 Platform Support
+
+| Platform | Role | Status |
+|----------|------|--------|
+| Windows | Full Node | ✅ |
+| macOS | Full Node | ✅ |
+| Linux | Full Node | ✅ |
+| Android | Scout Node | 🚧 |
+
+---
+
+## 📜 License
+
+Copyright © 2024 Malachi Hooper. All rights reserved.
+
+---
+
+**NIGHTFRAME** — Decentralized Intelligence at Scale
+
 
 </details>
 
@@ -322,6 +359,7 @@ spectrum sensing cognitive radio dynamic spectrum access frequency hopping
 spread spectrum FHSS DSSS OFDM modulation demodulation encoding decoding
 encryption authentication authorization access control identity management
 -->
+
 
 
 
