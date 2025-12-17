@@ -6,7 +6,7 @@
                                                                                                                                             
 ### `Malachi Hooper`
                                                                                                                                             
-## `Development Library`
+## `Library of Developments`
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m.alachii)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:malllachi@proton.me)
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-### `> Experimental Development`
+### `> Machine Learning Systems Designer `
 ### `> Texas Tech University`
 
 </div>
@@ -27,7 +27,7 @@
 
 ## Focus:
 
-Currently, I am focusing on adaptive network interfaces using neural networks. I have also just released a plug-and-play P2P mesh network library for distributed computation on .NET/C# systems (8).
+Currently, I am focusing on adaptive mesh networks using machine learning. I have also just released a plug-and-play peer-to-peer mesh network library for distributed computation on .NET/C# systems (8). This requires Powershell accessibility and is very durable. The project is called Nightframe.
 
 <table>
 <tr>
@@ -35,9 +35,9 @@ Currently, I am focusing on adaptive network interfaces using neural networks. I
 
 ```
 ┌──────────────────────────────┐
-│  NEURAL NETWORKS             │
-│  NETWORK COMMUNICATIONS      │
-│  PEER-TO-PEER PROTOCOLS      │
+│  Neural Network Cross-Communication
+│  Network Durability          │
+│  Peer-To-Peer Protocols      │
 └──────────────────────────────┘
 ```
 
@@ -46,9 +46,9 @@ Currently, I am focusing on adaptive network interfaces using neural networks. I
 
 ```
 ┌──────────────────────────────┐
-│  CROSS-PLATFORM INTEROP      │
-│  ACTIVE AI SELF-CRITIQUE     │
-│  EMBEDDED CODING AGENTS      │
+│  Cross-Platform Inter-op     │
+│  Active ML Self-Critique     │
+│  Embedded Coding Agents      │
 └──────────────────────────────┘
 ```
 
@@ -76,15 +76,15 @@ Currently, I am focusing on adaptive network interfaces using neural networks. I
 
 <div align="center">
 
-# 🌌 NIGHTFRAME
+# NIGHTFRAME
 
-**Decentralized AI Mesh Network**
+**Decentralized AI Mesh Network Overview**
 
 A distributed computing platform that enables collaborative neural network inference across a mesh of autonomous nodes. Features cellular intelligence, GPU-accelerated ONNX runtime, and viral network propagation.
 
 ---
 
-## ✨ Features
+## VIEW FEATURES
 
 | Feature | Description |
 |---------|-------------|
@@ -97,7 +97,7 @@ A distributed computing platform that enables collaborative neural network infer
 
 ---
 
-## 🏗️ Architecture
+## VIEW ARCHITECTURE
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -126,7 +126,7 @@ A distributed computing platform that enables collaborative neural network infer
 
 ---
 
-## 📦 Components
+## VIEW COMPONENTS
 
 | Project | Description |
 |---------|-------------|
@@ -139,7 +139,7 @@ A distributed computing platform that enables collaborative neural network infer
 
 ---
 
-## 🚀 Quick Start
+## QUICK START GUIDE
 
 ### Prerequisites
 - .NET 8.0 SDK
@@ -359,6 +359,7 @@ spectrum sensing cognitive radio dynamic spectrum access frequency hopping
 spread spectrum FHSS DSSS OFDM modulation demodulation encoding decoding
 encryption authentication authorization access control identity management
 -->
+
 
 
 
