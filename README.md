@@ -1,15 +1,15 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="assets/banner.jpg.jpg" alt="Neural Network Banner" width="100%"/>
-
                                                                                                                                             
-### `Malachi'S`
+### `Malachi's`
                                                                                                                                             
 ## `Library of Developments`
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m.alachii)
 [![GitHub followers](https://img.shields.io/github/followers/malachihooper-json?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malachihooper-json)
+
+<img src="assets/banner.jpg.jpg" alt="Neural Network Banner" width="100%"/>
 
 </div>
 
