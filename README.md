@@ -4,7 +4,7 @@
 <img src="assets/banner.jpg.jpg" alt="Neural Network Banner" width="100%"/>
 
                                                                                                                                             
-### `Malachi Hooper`
+### `Malachi'S`
                                                                                                                                             
 ## `Library of Developments`
 
@@ -18,8 +18,8 @@
 
 <div align="center">
 
-### `> Machine Learning Systems Designer `
-### `> Texas Tech University`
+### `> Various Focuses `
+### `> Texas Tech`
 
 </div>
 
@@ -27,7 +27,7 @@
 
 ## Focus:
 
-Currently, I am focusing on adaptive mesh networks using machine learning. I have also just released a plug-and-play peer-to-peer mesh network library for distributed computation on .NET/C# systems (8). This requires Powershell accessibility and is very durable. The project is called Nightframe.
+Currently, I am focusing on adaptive mesh networks using machine learning. I have also just released a plug-and-play peer-to-peer mesh network library for distributed computation on .NET/C# systems (8). This requires Powershell accessibility and is durable to changing network conditions.
 
 <table>
 <tr>
@@ -76,7 +76,7 @@ Currently, I am focusing on adaptive mesh networks using machine learning. I hav
 
 <div align="center">
 
-# NIGHTFRAME
+# Project#1: Nightframe
 
 **Decentralized AI Mesh Network Overview**
 
@@ -169,16 +169,16 @@ npm run dev
 
 ---
 
-## 📡 Cellular Intelligence
+## Cellular Efficiencies
 
-- **RF Fingerprinting**: GPS-free location (50-500m accuracy)
+- **RF Fingerprinting**: GPS-free location
 - **Handover Prediction**: Preemptive tower switching via LSTM
 - **AT Command Support**: Quectel, Telit, Sierra modems
 - **OpenCellID Integration**: Cell tower database sync
 
 ---
 
-## 🧠 Neural Compute
+##  Compute Modules
 
 | Provider | Platform | Hardware |
 |----------|----------|----------|
@@ -189,7 +189,7 @@ npm run dev
 
 ---
 
-## 🔐 Security
+## Security
 
 - **ECDSA Identity**: Cryptographic node authentication
 - **Shadow Mode**: Probationary period for new nodes
@@ -198,7 +198,7 @@ npm run dev
 
 ---
 
-## 📊 Credit Economy
+## Donations and Credit Economy
 
 | Action | Credits |
 |--------|---------|
@@ -209,7 +209,7 @@ npm run dev
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── NIGHTFRAME.sln
@@ -224,7 +224,7 @@ npm run dev
 
 ---
 
-## 🔄 Platform Support
+## Platform Support
 
 | Platform | Role | Status |
 |----------|------|--------|
@@ -235,13 +235,11 @@ npm run dev
 
 ---
 
-## 📜 License
+## License
 
 Copyright © 2024 Malachi Hooper. All rights reserved.
 
 ---
-
-**NIGHTFRAME** — Decentralized Intelligence at Scale
 
 
 </details>
@@ -359,6 +357,7 @@ spectrum sensing cognitive radio dynamic spectrum access frequency hopping
 spread spectrum FHSS DSSS OFDM modulation demodulation encoding decoding
 encryption authentication authorization access control identity management
 -->
+
 
 
 
