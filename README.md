@@ -24,7 +24,7 @@
 
 ---
 
-## Focus:
+## What am I working on?:
 
 Currently, I am focusing on adaptive mesh networks using machine learning. I have also just released a plug-and-play peer-to-peer mesh network library for distributed computation on .NET/C# systems (8). This requires Powershell accessibility and is durable to changing network conditions.
 
@@ -34,7 +34,7 @@ Currently, I am focusing on adaptive mesh networks using machine learning. I hav
 
 ```
 ┌──────────────────────────────┐
-│  Neural Network Cross-Communication
+│  Neural Networks             |
 │  Network Durability          │
 │  Peer-To-Peer Protocols      │
 └──────────────────────────────┘
@@ -76,8 +76,6 @@ Currently, I am focusing on adaptive mesh networks using machine learning. I hav
 <div align="center">
 
 # Project#1: Nightframe
-
-**Decentralized AI Mesh Network Overview**
 
 A distributed computing platform that enables collaborative neural network inference across a mesh of autonomous nodes. Features cellular intelligence, GPU-accelerated ONNX runtime, and viral network propagation.
 
@@ -244,6 +242,7 @@ spectrum sensing cognitive radio dynamic spectrum access frequency hopping
 spread spectrum FHSS DSSS OFDM modulation demodulation encoding decoding
 encryption authentication authorization access control identity management
 -->
+
 
 
 
