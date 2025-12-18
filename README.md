@@ -84,9 +84,7 @@ A distributed computing platform that enables collaborative neural network infer
 
 ---
 
-## VIEW FEATURES
-
-| Feature | Description |
+| Description |
 |---------|-------------|
 | **Distributed Inference** | Pipeline-parallel model sharding across nodes |
 | **Cellular Intelligence** | RF fingerprinting and handover prediction |
@@ -95,9 +93,7 @@ A distributed computing platform that enables collaborative neural network infer
 | **Captive Portal** | Platform-aware network propagation |
 | **Credit Economy** | Incentivized compute contribution |
 
----
 
-## VIEW ARCHITECTURE
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -126,114 +122,6 @@ A distributed computing platform that enables collaborative neural network infer
 
 ---
 
-## VIEW COMPONENTS
-
-| Project | Description |
-|---------|-------------|
-| **Shared** | Unified interfaces (INeuralCompute, ICellular, INetworkNode) |
-| **Orchestrator** | Command node with gRPC server and SignalR hub |
-| **Drone** | Desktop node with cellular and ONNX integration |
-| **DroneAndroid** | Android Scout app (MAUI) |
-| **Watchdog** | Process supervisor for hot-swap updates |
-| **gamma1-web** | Next.js web console |
-
----
-
-## QUICK START GUIDE
-
-### Prerequisites
-- .NET 8.0 SDK
-- Node.js 18+ (for web console)
-- Windows 10/11, macOS, or Linux
-
-### Build
-
-```bash
-# Build all projects
-dotnet build NIGHTFRAME.sln
-
-# Run Orchestrator in Genesis mode (single PC testing)
-dotnet run --project Orchestrator -- --mode genesis
-
-# Run standalone Drone
-dotnet run --project Drone
-```
-
-### Web Console
-
-```bash
-cd gamma1-web
-npm install
-npm run dev
-```
-
----
-
-## Cellular Efficiencies
-
-- **RF Fingerprinting**: GPS-free location
-- **Handover Prediction**: Preemptive tower switching via LSTM
-- **AT Command Support**: Quectel, Telit, Sierra modems
-- **OpenCellID Integration**: Cell tower database sync
-
----
-
-##  Compute Modules
-
-| Provider | Platform | Hardware |
-|----------|----------|----------|
-| **CUDA** | All | NVIDIA GPUs |
-| **DirectML** | Windows | AMD, Intel GPUs |
-| **CoreML** | macOS | Apple Silicon |
-| **CPU** | All | Fallback |
-
----
-
-## Security
-
-- **ECDSA Identity**: Cryptographic node authentication
-- **Shadow Mode**: Probationary period for new nodes
-- **Consensus Validation**: Multi-node result verification
-- **Signed Compute**: Verifiable result attribution
-
----
-
-## Donations and Credit Economy
-
-| Action | Credits |
-|--------|---------|
-| Compute shard | +100 |
-| Storage (per GB) | +10 |
-| Uptime (per hour) | +5 |
-| Prompt submission | -50 |
-
----
-
-## Project Structure
-
-```
-├── NIGHTFRAME.sln
-├── Shared/              # Shared interfaces
-├── Orchestrator/        # Command node
-├── Drone/               # Desktop drone
-├── DroneAndroid/        # Android scout
-├── Watchdog/            # Process supervisor
-├── gamma1-web/          # Web console
-└── docs/                # Documentation
-```
-
----
-
-## Platform Support
-
-| Platform | Role | Status |
-|----------|------|--------|
-| Windows | Full Node | ✅ |
-| macOS | Full Node | ✅ |
-| Linux | Full Node | ✅ |
-| Android | Scout Node | 🚧 |
-
----
 
 ## License
 
@@ -357,6 +245,7 @@ spectrum sensing cognitive radio dynamic spectrum access frequency hopping
 spread spectrum FHSS DSSS OFDM modulation demodulation encoding decoding
 encryption authentication authorization access control identity management
 -->
+
 
 
 
