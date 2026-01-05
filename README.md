@@ -24,8 +24,9 @@
 
 ---
 
-## What am I working on?:
+## What am I working on?(Chronological):
 NOW - I have just published a bash-based easy to use generator that creates 4k Binaural Beat Youtube Videos that are  High Quality at over 10 hours long, all rendered in UNDER 45 minutes! "IsochronicToneGen"
+
 SEPTEMBER -I am focusing on adaptive mesh networks using machine learning. I have also just released a plug-and-play peer-to-peer mesh network library for distributed computation on .NET/C# systems (8). This requires Powershell accessibility and is durable to changing network conditions.
 
 <table>
@@ -254,6 +255,7 @@ spectrum sensing cognitive radio dynamic spectrum access frequency hopping
 spread spectrum FHSS DSSS OFDM modulation demodulation encoding decoding
 encryption authentication authorization access control identity management
 -->
+
 
 
 
