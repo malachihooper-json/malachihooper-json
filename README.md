@@ -25,8 +25,8 @@
 ---
 
 ## What am I working on?:
-
-Currently, I am focusing on adaptive mesh networks using machine learning. I have also just released a plug-and-play peer-to-peer mesh network library for distributed computation on .NET/C# systems (8). This requires Powershell accessibility and is durable to changing network conditions.
+NOW - I have just published a bash-based easy to use generator that creates 4k Binaural Beat Youtube Videos that are  High Quality at over 10 hours long, all rendered in UNDER 45 minutes! "IsochronicToneGen"
+SEPTEMBER -I am focusing on adaptive mesh networks using machine learning. I have also just released a plug-and-play peer-to-peer mesh network library for distributed computation on .NET/C# systems (8). This requires Powershell accessibility and is durable to changing network conditions.
 
 <table>
 <tr>
@@ -35,7 +35,7 @@ Currently, I am focusing on adaptive mesh networks using machine learning. I hav
 ```
 ┌──────────────────────────────┐
 │  Neural Networks             |
-│  Network Durability          │
+│  Music and Audio             │
 │  Peer-To-Peer Protocols      │
 └──────────────────────────────┘
 ```
@@ -75,7 +75,19 @@ Currently, I am focusing on adaptive mesh networks using machine learning. I hav
 
 <div align="center">
 
-# Project#1: Nightframe
+# Project: IsochronicToneGen for MACBOOK or PC
+
+An easy to use rapid 4k video generator that contains custom binaural or isochronic frequencies and is rendered in under 45 minutes!
+
+---
+
+| Description |
+|---------|-------------|
+| **User-Settings** | User selects length of video, frequency, Hz, Carrier tone, etc. |
+| **Rapid 4k Encoding** | Develop a working 4k Video of your newly generated audio in RECORD time |
+| **Video Options** | There are options to include visuals, or keep it simple with black and white utility-style videos |
+
+# Project: Nightframe
 
 A distributed computing platform that enables collaborative neural network inference across a mesh of autonomous nodes. Features cellular intelligence, GPU-accelerated ONNX runtime, and viral network propagation.
 
@@ -242,6 +254,7 @@ spectrum sensing cognitive radio dynamic spectrum access frequency hopping
 spread spectrum FHSS DSSS OFDM modulation demodulation encoding decoding
 encryption authentication authorization access control identity management
 -->
+
 
 
 
