@@ -15,8 +15,8 @@
 
 <div align="right">
 
-### `> Audio, Visual, and Machine Learning Ethics`
-### `> Texas Tech University AI Ethics`
+### `> Audio, Visual, and Machine Learning`
+### `> Texas Tech University- Human-Centric AI`
 
 </div>
 
@@ -214,6 +214,7 @@ encryption authentication authorization access control identity management
 
 Copyright © 2024 Malachi Hooper. All rights reserved.
 -->
+
 
 
 
