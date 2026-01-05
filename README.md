@@ -1,34 +1,57 @@
-<div align="center">
-
 <!-- HEADER BANNER -->
                                                                                                                                             
-### `Malachi's`
-                                                                                                                                            
-## `Library of Developments`
+### `Malachi Hooper`                                                                                                                                     
+## `Development Library`
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m.alachii)
 [![GitHub followers](https://img.shields.io/github/followers/malachihooper-json?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malachihooper-json)
 
-<img src="assets/banner.jpg.jpg" alt="Neural Network Banner" width="100%"/>
+  </div>
+  
+  ---
+  
+  <div align="right">
+  
+  ### `> Audio, Visual, and Machine Learning Ethics `
+  ### `> Texas Tech University AI Ethics`
+  
+  </div>
+  
+  ---
+  
+  ## Published Projects:
+  
+  ---
+  **GENERATE AND MEDITATE (2026)** - Engineers and renders pro-level isochronic or binaural 4k videos at 10-hours long. The generator is capable of encoding and providing 10-hour professional videos in record time (Measured: 47 Minutes)
+  <img width="220" height="137.5" alt="Generate and Meditate" src="https://github.com/user-attachments/assets/a304e1d4-1f10-4bc0-b6fb-efb5c7ea073f" />
 
-</div>
+---
+**NEURAL CORE** - This is a C# ML model capable of training, text creation, training state persistence, and self-training capabilities. This framework allows for an extreme level of control in C# ML systems at a fundamental level.
+<img width="220" height="137.5" alt="C SHARP NEURAL CORE" src="https://github.com/user-attachments/assets/5a42039d-0857-41e0-ab0e-f14100f0a2cc" />
+
+---
+**NIGHTFRAME** - Plug-and-play mesh network library for distributed computation and AI inferencing on .NET/C# systems (8). This system exceeds network durability standards and provides complex orchestration services across an infinite number of nodular network connection.
+
+
+<img width="220" height="137.5" alt="Screenshot 2026-01-05 at 1 25 34 PM" src="https://github.com/user-attachments/assets/bda4abc0-d399-4bd3-ab24-c61872c8d5bc" />
+
+---
+**FLEET ORCHESTRATOR** - This is a distributed systems coordinator and node registrar I created within the .NET frameowrk for compute node fleets designed to sustain peer-to-peer inferencing and network connectivity, increasing reliability across shared compute systems.
+
+<img width="275" height="212" alt="Screenshot 2026-01-05 at 1 31 26 PM" src="https://github.com/user-attachments/assets/5c3a1764-353c-4018-8be2-9ad0db2d1a8a" />
+
+---
+**SCNCIT** - I developed this Shared Computing Node and Cellular Interfacing Tool that allows for real-time ceullular signal polling, RF fingerprinting for GPR-free peer-to-peer geolocation, predictive handover recommendations within cellular environments, and uses a drive-test collection mode to monitor cell tower performance during device movement.
+
+---
+**NIGHTFRAME (CORE)** - Core mesh logic for NIGHTFRAME with connection management, neural inference, node discovery, and overall administration of the node rigistry and orchestrator. Packed with industry-leading mobile device propagation determination through SSID.
+
+---
+**CATCH THE BUTTON** - go to <url catch-the-button.vercel.app> to use your cursor to try to catch a runaway button! 
 
 ---
 
-<div align="center">
-
-### `> Various Focuses `
-### `> Texas Tech`
-
-</div>
-
----
-
-## What am I working on?(Chronological):
-
-NOW - I have just published a generator that creates 10-Hour 4k Binaural Beat Youtube Videos, rapidly rendering in UNDER 45 minutes! "IsochronicToneGen"
-
-SEPTEMBER -I just released a plug-and-play peer-to-peer mesh network library for distributed computation on .NET/C# systems (8). This requires Powershell accessibility and is durable to changing network conditions.
+## OVERALL RESEARCH INTERESTS
 
 <table>
 <tr>
@@ -39,14 +62,6 @@ SEPTEMBER -I just released a plug-and-play peer-to-peer mesh network library for
 │  Neural Networks             |
 │  Music and Audio             │
 │  Peer-To-Peer Protocols      │
-└──────────────────────────────┘
-```
-
-</td>
-<td width="50%">
-
-```
-┌──────────────────────────────┐
 │  Cross-Platform Inter-op     │
 │  Active ML Self-Critique     │
 │  Embedded Coding Agents      │
@@ -59,7 +74,7 @@ SEPTEMBER -I just released a plug-and-play peer-to-peer mesh network library for
 
 ---
 
-## Proficiencies
+## Proficiencies:
 
 <div align="center">
 
@@ -74,65 +89,6 @@ SEPTEMBER -I just released a plug-and-play peer-to-peer mesh network library for
 </div>
 
 ---
-
-<div align="center">
-
-# Project: IsochronicToneGen for MACBOOK or PC
-
-An easy to use rapid 4k video generator that contains custom binaural or isochronic frequencies and is rendered in under 45 minutes!
-
----
-
-| Description |
-|---------|-------------|
-| **User-Settings** | User selects length of video, frequency, Hz, Carrier tone, etc. |
-| **Rapid 4k Encoding** | Develop a working 4k Video of your newly generated audio in RECORD time |
-| **Video Options** | There are options to include visuals, or keep it simple with black and white utility-style videos |
-
-# Project: Nightframe
-
-A distributed computing platform that enables collaborative neural network inference across a mesh of autonomous nodes. Features cellular intelligence, GPU-accelerated ONNX runtime, and viral network propagation.
-
----
-
-| Description |
-|---------|-------------|
-| **Distributed Inference** | Pipeline-parallel model sharding across nodes |
-| **Cellular Intelligence** | RF fingerprinting and handover prediction |
-| **Neural Compute** | ONNX Runtime with GPU acceleration (CUDA, DirectML, CoreML) |
-| **Mesh Discovery** | UDP broadcast + mDNS peer discovery |
-| **Captive Portal** | Platform-aware network propagation |
-| **Credit Economy** | Incentivized compute contribution |
-
-
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                         WEB CONSOLE (React/Next.js)                          │
-└───────────────────────────────────────┬─────────────────────────────────────┘
-                                        │ SignalR WebSocket
-                                        ▼
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                        ORCHESTRATOR (Command Node)                           │
-│                        ASP.NET Core + gRPC                                   │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  Drone Registry │ Ledger Service │ Shard Coordinator │ Cell Coordinator     │
-└───────────────────────────────────────┬─────────────────────────────────────┘
-                                        │ gRPC bidirectional streaming
-                        ┌───────────────┼───────────────┐
-                        ▼               ▼               ▼
-                  ┌─────────┐     ┌─────────┐     ┌─────────┐
-                  │ DESKTOP │     │  SCOUT  │     │ ANDROID │
-                  │  DRONE  │     │  DRONE  │     │  SCOUT  │
-                  │─────────│     │─────────│     │─────────│
-                  │ Compute │     │ Cellular│     │ Wi-Fi   │
-                  │ Storage │     │ RF Loc  │     │ Scanning│
-                  │ Gateway │     │ Predict │     │ GPS Map │
-                  └─────────┘     └─────────┘     └─────────┘
-```
-
----
-
 
 ## License
 
@@ -256,6 +212,8 @@ spectrum sensing cognitive radio dynamic spectrum access frequency hopping
 spread spectrum FHSS DSSS OFDM modulation demodulation encoding decoding
 encryption authentication authorization access control identity management
 -->
+
+
 
 
 
