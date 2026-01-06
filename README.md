@@ -15,8 +15,10 @@
 
 <div align="right">
 
-### `> Audio, Visual, and Machine Learning`
-### `> Texas Tech University- Human-Centric AI`
+### `> Anatomical Developer`
+### `> Texas Tech University`
+
+Many of my projects are rendered from anatomical processes found in the human body.
 
 </div>
 
@@ -215,6 +217,7 @@ encryption authentication authorization access control identity management
 
 Copyright © 2024 Malachi Hooper. All rights reserved.
 -->
+
 
 
 
