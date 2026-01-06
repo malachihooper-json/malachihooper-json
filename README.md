@@ -18,14 +18,12 @@
 ### `> Anatomical Developer`
 ### `> Texas Tech University`
 
-Many of my projects are rendered from anatomical processes found in the human body.
-
 </div>
 
 ---
 
 ## 📂 Published Projects
-
+Many of my projects are inspired by anatomical processes found in the human body.
 ---
 
 ### **GENERATE AND MEDITATE (2026)**
@@ -217,6 +215,7 @@ encryption authentication authorization access control identity management
 
 Copyright © 2024 Malachi Hooper. All rights reserved.
 -->
+
 
 
 
