@@ -6,8 +6,6 @@
 
 ## `Research and Development Library`
 
-## 'quantum.dynsell.com'
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m.alachii)
 [![GitHub followers](https://img.shields.io/github/followers/malachihooper-json?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malachihooper-json)
 
@@ -17,8 +15,8 @@
 
 <div align="right">
 
-### `> Backend Developer`
-### `> Texas Tech University`
+### `> Technical Product Developer and Researcher`
+### `> Dynsell Quantum Research`
 
 </div>
 
@@ -30,9 +28,14 @@
 
 </div>
 
+### **Utilizing Quantum-Inspired Matrix Product States to Force Deterministic AI Data Analysis**
+> Utilized MPS (Patrix Product State) truncation and focused hamiltonian continuous solver mechanisms to deliver and couple coefficients with data parameters to achieve mathematically-based and deterministic, auditable natural language outputs.
+
+---
+
 ### **GENERATE AND MEDITATE (2026)**
 > Renders pro-level isochronic or binaural utility sounds and encodes 4k videos for these sounds at 10-hours long for rapid dispersion on Youtube or paid content sites.
-**Benchmark:** 10-hour 4K render in ~47 Minutes.
+**Benchmark:** 10-hour 4K render in ~47 Minutes with 8gb RAM on an Intel Core i5 CPU.
 
 <img width="440" alt="Generate and Meditate" src="https://github.com/user-attachments/assets/a304e1d4-1f10-4bc0-b6fb-efb5c7ea073f" />
 
