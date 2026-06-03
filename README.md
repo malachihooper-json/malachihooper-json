@@ -16,7 +16,7 @@
 <div align="right">
 
 ### `> Technical Product Developer and Researcher`
-### `> Dynsell Quantum Research`
+### `> Dynsell Quantum Research R/D Founder`
 
 </div>
 
@@ -29,7 +29,7 @@
 </div>
 
 ### **Utilizing Quantum-Inspired Matrix Product States to Force Deterministic AI Data Analysis**
-> Utilized MPS (Patrix Product State) truncation and focused hamiltonian continuous solver mechanisms to deliver and couple coefficients with data parameters to achieve mathematically-based and deterministic, auditable natural language outputs.
+> Utilized MPS (Matrix Product State) truncation and focused hamiltonian continuous solver mechanisms to deliver and couple coefficients with data parameters to achieve mathematically-based and deterministic, auditable natural language outputs.
 
 ---
 
