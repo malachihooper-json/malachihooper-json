@@ -4,7 +4,7 @@
 
 ### `Malachi David Hooper`
 
-## `Research and Development Library`
+## `Development Project Library`
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m.alachii)
 [![GitHub followers](https://img.shields.io/github/followers/malachihooper-json?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malachihooper-json)
@@ -18,98 +18,7 @@
 ### `> Technical Product Developer and Researcher`
 ### `> Dynsell Quantum Research R/D Founder`
 
-</div>
-
----
-
-<div align="center">
-
-##  📂 See _Published Projects_ here:
-
-</div>
-
-### **Utilizing Quantum-Inspired Matrix Product States to Force Deterministic AI Data Analysis**
-> Utilized MPS (Matrix Product State) truncation and focused hamiltonian continuous solver mechanisms to deliver and couple coefficients with data parameters to achieve mathematically-based and deterministic, auditable natural language outputs.
-
----
-
-### **GENERATE AND MEDITATE (2026)**
-> Renders pro-level isochronic or binaural utility sounds and encodes 4k videos for these sounds at 10-hours long for rapid dispersion on Youtube or paid content sites.
-**Benchmark:** 10-hour 4K render in ~47 Minutes with 8gb RAM on an Intel Core i5 CPU.
-
-<img width="440" alt="Generate and Meditate" src="https://github.com/user-attachments/assets/a304e1d4-1f10-4bc0-b6fb-efb5c7ea073f" />
-
----
-
-### **NEURAL CORE**
-> A C# artificial intelligence (GPT) model framework capable of self-training, text creation, training state persistence, and natural dialogue communication. Designed for low-level fundamental control in C# ML ecosystems.
-
-<img width="440" alt="C SHARP NEURAL CORE" src="https://github.com/user-attachments/assets/5a42039d-0857-41e0-ab0e-f14100f0a2cc" />
-
----
-
-### **NIGHTFRAME**
-> Plug-and-play mesh network library for distributed computation and AI inferencing on .NET/C# systems. Features extreme durability and orchestrates complex services across infinite nodular connections.
-
-<img width="440" alt="NIGHTFRAME Orchestration" src="https://github.com/user-attachments/assets/bda4abc0-d399-4bd3-ab24-c61872c8d5bc" />
-
----
-
-### **FLEET ORCHESTRATOR**
-> Distributed systems coordinator and node registrar built for compute node fleets. Designed to sustain peer-to-peer inferencing and Increase reliability across shared compute systems.
-
-<img width="440" alt="FLEET ORCHESTRATOR" src="https://github.com/user-attachments/assets/5c3a1764-353c-4018-8be2-9ad0db2d1a8a" />
-
----
-
-### **SCNCIT**
-> **Shared Computing Node and Cellular Interfacing Tool.** Real-time cellular signal polling, RF fingerprinting for GPR-free P2P geolocation, and predictive handover recommendations with drive-test monitoring.
-
----
-
-### **NIGHTFRAME (CORE)**
-> Core mesh logic for the Nightframe ecosystem. Handles connection management, neural inference, and mobile device propagation determination via SSID fingerprinting.
-
----
-
-### **CATCH THE BUTTON**
-> Interactive cursor challenge! Can you catch the runaway button?
-> **Explore:** [catch-the-button.vercel.app](https://catch-the-button.vercel.app)
-
----
-
-## OVERALL RESEARCH INTERESTS
-
-<div align="center">
-
-| System Architecture & Intelligence |
-| :--- |
-| `┌──────────────────────────────┐` |
-| `│  Neural Networks             │` |
-| `│  Music and Audio             │` |
-| `│  Peer-To-Peer Protocols      │` |
-| `│  Cross-Platform Inter-op     │` |
-| `│  Active ML Self-Critique     │` |
-| `│  Embedded Coding Agents      │` |
-| `└──────────────────────────────┘` |
-
-</div>
-
----
-
-## Proficiencies
-
-<div align="center">
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-</div>
+ORCID: 0009-0002-8235-4234
 
 ---
 
@@ -119,8 +28,7 @@
 
 | Platform | Link |
 | :--- | :--- |
-| **Instagram** | [@m.alachii](https://instagram.com/m.alachii) |
-| **Email** | [malllachi@proton.me](mailto:malllachi@proton.me) |
+| **Email** | [quantum@dynsell.com](mailto:quantum@dynsell.com) |
 
 <br/>
 
