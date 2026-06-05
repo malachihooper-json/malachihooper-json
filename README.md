@@ -26,7 +26,7 @@
 | Platform | Link |
 | :--- | :--- |
 | **Email** | [quantum@dynsell.com](mailto:quantum@dynsell.com) |
-| **Website** | [quantum.dynsell.com](url:quantum.dynsell.com)
+| **Website** | [quantum.dynsell.com](linkto:quantum.dynsell.com)
 
 <br/>
 
