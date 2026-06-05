@@ -1,7 +1,5 @@
 <div align="center">
 
-## `Malachi David Hooper`
-
 ### `Technical Projects Library of M.D. Hooper`
 
 ORCID: 0009-0002-8235-4234
