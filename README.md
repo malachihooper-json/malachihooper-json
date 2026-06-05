@@ -2,11 +2,11 @@
 
 ## `Malachi David Hooper`
 
-### `Technical Projects Library`
+### `Technical Projects Library of M.D. Hooper`
 
-<B>ORCID: 0009-0002-8235-4234
+ORCID: 0009-0002-8235-4234
 
-Affiliation: Dynsell Quantum Research
+Affiliation: Dynsell Quantum Research, DYNSELL LLC.
 
 Topics: HCI, Peer to Peer Neural Inferencing Technologies, Cellular and Radio Software, Edge AI
 
