@@ -2,9 +2,9 @@
 
 ## `Malachi David Hooper`
 
-<B>Development Project Library<B>
+### `Technical Projects Library`
 
-ORCID: 0009-0002-8235-4234
+<B>ORCID: 0009-0002-8235-4234
 
 Affiliation: Dynsell Quantum Research
 
