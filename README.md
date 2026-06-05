@@ -12,7 +12,7 @@ Topics: HCI, Peer to Peer Neural Inferencing Technologies, Cellular and Radio So
 
 ---
 
-<div align="right">
+<div align="center">
 
 ### `> Technical Product Developer and Researcher`
 ### `> Dynsell Quantum Research R/D Founder`
@@ -26,7 +26,7 @@ Topics: HCI, Peer to Peer Neural Inferencing Technologies, Cellular and Radio So
 | Platform | Link |
 | :--- | :--- |
 | **Email** | [quantum@dynsell.com](mailto:quantum@dynsell.com) |
-| **Website** | [quantum.dynsell.com](linkto:quantum.dynsell.com)
+| **Website** | [quantum.dynsell.com](url:quantum.dynsell.com)
 
 <br/>
 
