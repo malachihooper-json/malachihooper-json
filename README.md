@@ -14,9 +14,9 @@ Please view the Repositories found in this GitHub profile for a detailed look in
 
 </div>
 
-## Contact
-
 <div align="center">
+
+## Contact
 
 | Platform | Link |
 | :--- | :--- |
