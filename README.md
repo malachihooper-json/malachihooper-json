@@ -7,7 +7,9 @@
 ## `Development Project Library`
 
 ORCID: 0009-0002-8235-4234
+
 Affiliation: Dynsell Quantum Research
+
 Topics: HCI, Peer to Peer Neural Inferencing Technologies, Cellular and Radio Software, Edge AI
 
 </div>
