@@ -6,9 +6,6 @@
 
 ## `Development Project Library`
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m.alachii)
-[![GitHub followers](https://img.shields.io/github/followers/malachihooper-json?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malachihooper-json)
-
 </div>
 
 ---
