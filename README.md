@@ -15,7 +15,7 @@
 ### `> Technical Product Developer and Researcher`
 ### `> Dynsell Quantum Research R/D Founder`
 
-ORCID: 0009-0002-8235-4234
+<B>ORCID:<B> 0009-0002-8235-4234
 
 ---
 
