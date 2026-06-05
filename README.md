@@ -1,10 +1,8 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
+## `Malachi David Hooper`
 
-### `Malachi David Hooper`
-
-## `Development Project Library`
+<B>Development Project Library<B>
 
 ORCID: 0009-0002-8235-4234
 
