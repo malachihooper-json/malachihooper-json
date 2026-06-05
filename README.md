@@ -8,25 +8,20 @@ Affiliation: Dynsell Quantum Research, DYNSELL LLC.
 
 Topics: HCI, Peer to Peer Neural Inferencing Technologies, Cellular and Radio Software, Edge AI
 
+---
+
+Please view the Repositories found in this GitHub profile for a detailed look into my work.
+
 </div>
 
----
-
-<div align="center">
-
-### `> Technical Product Developer and Researcher`
-### `> Dynsell Quantum Research R/D Founder`
-
----
-
-## ✉️ Contact
+## Contact
 
 <div align="center">
 
 | Platform | Link |
 | :--- | :--- |
 | **Email** | [quantum@dynsell.com](mailto:quantum@dynsell.com) |
-| **Website** | [quantum.dynsell.com](url:quantum.dynsell.com)
+| **Website** | [quantum.dynsell.com](https://quantum.dynsell.com/)
 
 <br/>
 
