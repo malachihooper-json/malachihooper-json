@@ -21,7 +21,7 @@ Please view the Repositories found in this GitHub profile for a detailed look in
 | Platform | Link |
 | :--- | :--- |
 | **Email** | [quantum@dynsell.com](mailto:quantum@dynsell.com) |
-| **Website** | [quantum.dynsell.com](https://quantum.dynsell.com/)
+| **Website and Formal Research Papers** | [quantum.dynsell.com](https://quantum.dynsell.com/)
 
 <br/>
 
